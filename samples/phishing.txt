@@ -1,0 +1,1 @@
+BankOfAmerica ALERT: Your account has been LOCKED due to unusual sign-in activity. Verify your identity within 24 hours or your account will be permanently suspended: http://bofa-secure-verify.co/login

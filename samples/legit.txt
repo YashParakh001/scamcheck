@@ -1,0 +1,6 @@
+From: GitHub <noreply@github.com>
+Subject: [GitHub] A third-party OAuth application has been added to your account
+
+Hey there! A third-party OAuth application (Netlify) with read:user and repo scopes was recently authorized to access your account. Visit https://github.com/settings/connections/applications for more information.
+
+To see this and other security events for your account, visit https://github.com/settings/security-log
